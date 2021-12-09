@@ -21,7 +21,7 @@
         <!-- spring版本号 -->
         <spring.version>3.2.13.RELEASE</spring.version>
         <!-- jackson 版本号 -->
-        <jackson.version>2.4.1</jackson.version>
+        <jackson.version>2.9.10.8</jackson.version>
         <!-- mybatis版本号 -->
         <mybatis.version>3.2.2</mybatis.version>
     </properties>
